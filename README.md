@@ -32,12 +32,6 @@ The aim of this project is to **demonstrate skills in data cleaning, analysis, a
 
 ---
 
-## 📈 Sample Visualizations
-
-(Add screenshots of graphs like bar charts, pie charts, or trends from your notebook here – this makes your repo visually appealing.)
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
